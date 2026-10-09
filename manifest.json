@@ -1,0 +1,6 @@
+{
+  "_comment": "Update manifest read by Geeb's Music App. Each release: publish the installer as a Release here first, then bump 'version', set 'installer_url' to it and update 'notes'.",
+  "version": "0.67.0",
+  "installer_url": "https://github.com/JustAGeeb/GeebsMusicApp/releases/download/v0.67.0/GeebsMusicApp-0.67.0.msi",
+  "notes": "A simpler Geeb's Music App: just Download, TikTok, Listen and Watch."
+}
