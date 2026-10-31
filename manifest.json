@@ -1,6 +1,6 @@
 {
   "_comment": "Update manifest read by Geeb's Music App. Each release: publish the installer as a Release here first, then bump 'version', set 'installer_url' to it and update 'notes'.",
-  "version": "0.75.0",
-  "installer_url": "https://github.com/JustAGeeb/GeebsMusicApp/releases/download/v0.75.0/GeebsMusicApp-0.75.0.msi",
-  "notes": "Reshuffle, and listen along with friends from Discord."
+  "version": "0.76.0",
+  "installer_url": "https://github.com/JustAGeeb/GeebsMusicApp/releases/download/v0.76.0/GeebsMusicApp-0.76.0.msi",
+  "notes": "Night mode, and night mode and liked songs on your Discord status."
 }
